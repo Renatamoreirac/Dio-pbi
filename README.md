@@ -1,2 +1,2 @@
 # Dio-pbi
-Repositório criado para armazenar o arquiv pbix do projeto relatório de vendas elegante da DIO. 
+Repositório criado para armazenar os arquivos pbix da Trilha Dio de Power BI. 
